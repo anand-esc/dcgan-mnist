@@ -1,0 +1,22 @@
+# Data & outputs
+data/
+checkpoints/
+samples/
+logs/
+*.pth
+*.png
+
+# Environment
+venv/
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Colab
+*.ipynb_checkpoints/
+dcgan_results.zip

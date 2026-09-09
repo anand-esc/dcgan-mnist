@@ -1,0 +1,21 @@
+{
+    "dataset": "fashion-mnist",
+    "data_root": "./data",
+    "batch_size": 128,
+    "image_size": 64,
+    "nc": 1,
+    "nz": 100,
+    "ngf": 64,
+    "ndf": 64,
+    "num_epochs": 50,
+    "lr": 0.0002,
+    "beta1": 0.5,
+    "beta2": 0.999,
+    "label_smoothing": 0.1,
+    "ngpu": 1,
+    "checkpoint_interval": 5,
+    "sample_interval": 100,
+    "log_interval": 50,
+    "num_workers": 4,
+    "seed": 42
+}
