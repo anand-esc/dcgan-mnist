@@ -1,5 +1,7 @@
 # DCGAN on Fashion-MNIST
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anand-esc/dcgan-mnist/blob/main/dcgan_colab.ipynb)
+
 **Deep Convolutional Generative Adversarial Network** — Clean PyTorch implementation with industry-standard stabilization techniques. Generates realistic fashion items from noise in ~5 minutes on free Colab GPU.
 
 ---
